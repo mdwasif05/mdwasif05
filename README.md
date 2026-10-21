@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi there, I'm Mohammad Wasif! 👋 📊
 
-<!--
-**mdwasif05/mdwasif05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Data Analyst | Transforming Raw Data into Actionable Insights
+Welcome to my data repository profile! I am a passionate data enthusiast dedicated to solving complex business problems, building interactive dashboards, and uncovering hidden patterns in data to drive strategic decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🔭 **Current Focus:** Open for entry-level roles or internships in **Data Analytics** and **Business Intelligence**.
+- 🌱 **Learning Journey:** Currently mastering advanced statistical modeling and machine learning basics.
+- 💡 **Core Strengths:** Data Wrangling, Predictive Modeling, A/B Testing, and Storytelling through Data.
+- ⚡ **Fun Fact:** I look at everyday tasks through the lens of optimization and data!
+
+---
+
+### 🛠️ Tech Stack & Data Toolkit
+
+Here are the languages, tools, and platforms I leverage to extract value from data:
+
+#### 📊 Data Analysis & Scripting
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="R" />
+  <img src="https://shields.io" alt="SQL" />
+  <img src="https://shields.io" alt="Excel" />
+</p>
+
+#### 📉 Data Visualization & BI
+<p align="left">
+  <img src="https://shields.io" alt="Power BI" />
+  <img src="https://shields.io" alt="Tableau" />
+  <img src="https://shields.io" alt="Plotly" />
+</p>
+
+#### 🗄️ Databases & Big Data
+<p align="left">
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="GCP BigQuery" />
+</p>
+
+---
+
+### 📊 Dynamic GitHub Metrics & Analytics
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages" width="60%" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+Let's collaborate on data projects, discuss industry trends, or just talk shop!
+
+<p align="left">
+  <a href="https://linkedin.com" target="blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+  <a href="https://medium.com" target="blank">
+    <img src="https://shields.io" alt="Medium Blog" />
+  </a>
+</p>
+
+---
+<p align="center"><i>"In God we trust, all others must bring data."</i> – W. Edwards Deming</p>
